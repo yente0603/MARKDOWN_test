@@ -39,7 +39,7 @@ In config.c
 const char *names[] = {"brian", "stefan", "steve"};
 ```
 
-8. link: could use [text](link "title") or <link> to build up  
+8. link: could use [text]\(link "title") or <link> to build up  
     e.g.,  
     [中山大學](http://www.nsysu.edu.tw/ "Link to NSYSU")  
     <http://www.nsysu.edu.tw>
