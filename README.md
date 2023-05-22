@@ -41,17 +41,11 @@ const char *names[] = {"brian", "stefan", "steve"};
 
 8. link: could use [text]\(link "title") or \<link> to build up  
     e.g.,  
-    [中山大學](http://www.nsysu.edu.tw/ "Link to NSYSU")  
+    [NSYSU](http://www.nsysu.edu.tw/ "Link to NSYSU")  
     <http://www.nsysu.edu.tw>
 9.  introduction: use '>'
     > Ich hoffe, es geht dir gut.  
     *from Germany*
-
-
-    or
-    > Ich hoffe, es geht dir gut.
-    > *from Germany*
-
 10. picture: use .png  
     ![Python Logo](https://www.python.org/static/community_logos/python-logo-master-v3-TM.png "Python Logo")
     ![film](fuji_industrial100_expired_2.png "fuji_industrial100_expired")
