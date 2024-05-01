@@ -29,13 +29,13 @@ date: 2023/05/22
    This is my first markdown manual.
    ***
 7. code:
-   cpp
+
 In config.h
-```
-extern const char *names[];
 ```cpp
-In config.c
+extern const char *names[];
 ```
+In config.c
+```cpp
 const char *names[] = {"brian", "stefan", "steve"};
 ```
 
